@@ -1,8 +1,8 @@
 {
   "name": "phu-package",
-  "version": "1.0.3",
-  "description": "test creating npm package",
-  "main": "src/index.js",
+  "version": "1.0.4",
+  "description": "test creating npm package updated!!!!",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
